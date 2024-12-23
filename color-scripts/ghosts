@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 
 # ANSI color scheme script by pfh
 # Source: http://crunchbang.org/forums/viewtopic.php?pid=157979#p157979
